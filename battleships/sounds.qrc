@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>resources/sound/splash.wav</file>
+        <file>resources/sound/firstT.wav</file>
+        <file>resources/sound/exs_sound.wav</file>
+        <file>resources/sound/theartofwar.wav</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>resources/txt/style.qss</file>
+        <file>resources/sound/exs_sound.wav</file>
+        <file>resources/img/mine_scaled.png</file>
+        <file>resources/img/mine.png</file>
+        <file>resources/img/water.png</file>
+        <file>resources/img/res.png</file>
+        <file>resources/img/h.jpg</file>
+        <file>resources/img/flames.png</file>
+        <file>resources/img/explosion.png</file>
+        <file>resources/img/doodle.png</file>
+        <file>resources/img/brod4.png</file>
+        <file>resources/img/brod3.png</file>
+        <file>resources/img/brod2.png</file>
+        <file>resources/img/brod1.png</file>
+        <file>resources/img/singleplayerNaslov.png</file>
+        <file>resources/img/postavljanjeTabla.png</file>
+        <file>resources/img/postavljanjePozadina.png</file>
+        <file>resources/img/multiplayerNaslov.png</file>
+        <file>resources/img/battleshipsPozadina.png</file>
+        <file>resources/img/battleshipsNaslov.png</file>
+        <file>resources/img/art.jpg</file>
+        <file>resources/img/fire.jpg</file>
+    </qresource>
+</RCC>
