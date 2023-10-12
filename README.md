@@ -46,9 +46,11 @@
 
 ## Članovi tima
 
-- [Dimitrije Vranić, 65/2019](https://gitlab.com/Diconi)
 - [Nikola Belaković, 104/2019](https://gitlab.com/NikolaBelak)
 - [Lazar Stanojević, 7/2019](https://gitlab.com/lazar001)
 - [Milan Brčin, 247/2019](https://gitlab.com/JohnMcCodeman5)
 - [Milica Obradović, 83/2019](https://gitlab.com/milicaob)
-- [Emilija Stevanović, 100/2019](https://gitlab.com/emilijastevanovic)
+- [Emilija Stevanović, 100/2019](https://gitlab.com/emilijastevanovic)   
+
+---
+View commit history [here](https://gitlab.com/matf-bg-ac-rs/course-rs/projects-2022-2023/16-battleships/-/commits/main/?ref_type=HEADS)   <br>
